@@ -66,6 +66,7 @@ public class MyGdxGame extends ApplicationAdapter {
         raindrops.add(raindrop); // добавить параметры новой капли в массив
         lastDropTime = TimeUtils.nanoTime();
 
+        
 
     }
 
